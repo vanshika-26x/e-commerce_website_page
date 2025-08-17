@@ -2,8 +2,8 @@
 
 A simple, responsive e‑commerce storefront built with **HTML**, **CSS**, and a dash of **vanilla JavaScript** for interactivity.
 
-> **Live Demo:** *Add link after deployment*
-> **Repository:** *Add your GitHub repo link*
+> **Live Demo:** https://e-commerce-website-page-zeta.vercel.app/
+> **Repository:** https://github.com/vanshika-26x/e-commerce_website_page.git
 
 ---
 
